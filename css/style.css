@@ -268,16 +268,6 @@ a:hover {
   color: #000000;
 }
 
-pm {
-  color: #FFF;
-  font-size: 120%;
-  line-height: 155%;
-  padding: 3%;
-  text-indent: 2%;
-  text-align: center;
-  float: inherit;
-  font-weight: bold;
-}
 
 u2 img{
   width: 360px;
@@ -293,17 +283,12 @@ u2 img{
   text-align: center;
 }
 .slider2 {
-  width: 360px;
-  max-width:360px;
+  width: 550px;
+  max-width:550px;
   padding-right: 0px;
   margin-left: 0 auto;
   margin-right: 0 auto;
   margin-top: 0 auto;
-  float:left;
-  width: 31.5%;
-  float: left;
-  padding: 10px;
-  text-align: center;
 }
 
 img {
@@ -399,12 +384,14 @@ a:hover {
   color: #FF0400;
 }
 .sliderP {
-  width: 1080px;
-  max-width:1080px;
-  padding-right: 0px;
+  width: 550px;
+  max-width:550px;
+  padding-right: 15px;
   margin-left: 0 auto;
   margin-right: 0 auto;
   margin-top: 0 auto;
+  float: left;
+
 }
 .slider {
   width: 720px;
